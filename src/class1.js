@@ -1,1 +1,1 @@
-console.log('Class 1');
+console.log('Class 2');
